@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Editbox Button</string>
+    <string name="button_text">Read Me</string>
+    <string name="edit_text_hint">Enter some text</string>
+</resources>
